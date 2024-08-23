@@ -1,10 +1,4 @@
-# Gadget Arena E-commerce Website
 
-## Overview
-
-Gadget Arena is a modern e-commerce website specializing in electronics and gadgets. Built with HTML, CSS, and JavaScript, it offers a seamless shopping experience for tech enthusiasts.
-
-## Preview: https://gadget-arena-site.netlify.app/
 
 ## Features
 
@@ -68,18 +62,4 @@ To add or modify products, edit the `products` array in `shopping.js`. Each prod
     rating: 4.5,
     category: 'Category Name'
 }
-```
 
-## Contact
-
-Feel free to reach out with any questions or feedback:
-
-- **GitHub**: [megh-bari](https://github.com/megh-bari)
-- **Twitter**: [@megh_bari](https://x.com/megh_bari)
-- **Email**: [meghbari01@gmail.com](mailto:meghbari01@gmail.com).
-
-## Author
-
-This repo is maintained by @ Megh bari.
-
-## Happy Coding 🎈
